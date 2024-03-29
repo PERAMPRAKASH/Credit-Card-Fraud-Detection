@@ -3,7 +3,7 @@ Credit card fraud detection systems play a crucial role in safeguarding financia
 
 The dataset contains transactions made by credit card transactions where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
-**#Steps to Follow**
+**Steps to Follow**
 
 1.Get the code from the my repository.
 
